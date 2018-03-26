@@ -1,2 +1,1 @@
-# blockchain-transaction
-Uses hyperledger composer
+# org.acme.biznet
