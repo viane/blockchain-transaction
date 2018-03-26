@@ -1,5 +1,9 @@
 # Blockchain Transaction
 
+## Prerequisites
+
+Make sure [Installing pre-requisites](https://hyperledger.github.io/composer/installing/installing-prereqs.html) and [set up your development environment](https://hyperledger.github.io/composer/installing/development-tools.html) before runing the business network
+
 ### namespace: org.acme.biznet
 
 #### 1. Generate a business network archive
